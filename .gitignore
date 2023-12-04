@@ -10,6 +10,7 @@
 
 # production
 /dist
+/src/main.ts
 /src/indexFirst.ts
 /src/lection3.ts
 /src/indexSecond.ts
